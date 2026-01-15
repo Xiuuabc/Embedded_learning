@@ -8,4 +8,4 @@ This repository records my learning process of:、
 ## Goal
 Build solid foundations for embedded and AI-related projects.
 
-##C language
+## C language
